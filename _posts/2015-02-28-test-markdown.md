@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: 基金委员会成立
+subtitle: 基金委员会正式成立第一届会议召开
+gh-repo: mixmarvel/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [meetings]
 comments: true
 ---
 
