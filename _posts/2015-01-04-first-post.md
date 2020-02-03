@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
+title: 基金会成立
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+MixMarvel基金会正式成立！
