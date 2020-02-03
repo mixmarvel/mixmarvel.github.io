@@ -8,7 +8,29 @@ tags: [meetings]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+第一届决策委员会召开
+ 
+本基金会于XXXX年XX月XX日召开XX届第XX次决策委员会议
+会议时间：XXXX年XX月XX日
+会议主题：第一届决策委员会召开
+出席委员名单：全员出席
+未出席委员名单：无
+出席委员名单：Jade， Yiyi， Nep， Leo，Charles，Adrain，Lion
+未出席委员名单：无
+会议决议：通过关于成立第一届决策委员会的决议（全票通过）
+备注：
+ 
+第一届决策委员会名单：
+排名不分先后，共计7名委员
+Jade， 
+Yiyi，
+Nep， 
+Leo，
+Charles，
+Adrain，
+Lion
+
+公示时间：XX年XX月XX
 
 **Here is some bold text**
 
