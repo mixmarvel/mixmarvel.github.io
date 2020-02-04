@@ -20,7 +20,7 @@ description: A display portal of MixMarvel Foundation
 
 # List of links in the navigation bar
 navbar-links:
-  News: "News Release"
+  Whitepaper: 
   More infornmation:
     - Offical website: "http://www.mixmarvel.com"
     - Learn markdown: "http://www.markdowntutorial.com/"
