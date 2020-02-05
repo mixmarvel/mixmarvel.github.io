@@ -20,7 +20,7 @@ description: A display portal of MixMarvel Foundation
 
 # List of links in the navigation bar
 navbar-links:
-  Whitepaper: "https://www.dropbox.com/s/xtbd7x4x5zpqggk/Get%20Started%20with%20Dropbox.pdf?dl=0"
+  Whitepaper: https://www.lanzous.com/i92core
   More infornmation:
     - Offical website: "http://www.mixmarvel.com"
     - Contact us: mixmarvel@mixmarvel.com
