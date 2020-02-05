@@ -1,6 +1,10 @@
-**基金会公告 模版1**
-
-# Blockchain game publishing platform, MixMarvel, held conference in South Korea on April 30
+---
+layout: post
+title: Blockchain game publishing platform, MixMarvel, held conference in South Korea on April 30
+subtitle: *Posted by MixMarvel Foundation Team on XXXXX*
+bigimg: /img/path.jpg
+tags: [books, test]
+---
 
 *Posted by MixMarvel Foundation Team on XXXXX*
 
