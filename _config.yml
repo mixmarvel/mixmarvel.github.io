@@ -20,7 +20,7 @@ description: A display portal of MixMarvel Foundation
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://mixmarvel.com"
+  Home: "https://mixmarvel.org"
   More infornmation:
     - Offical website: "http://www.mixmarvel.com"
     - Contact us: mixmarvel@mixmarvel.com
