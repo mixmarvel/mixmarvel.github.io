@@ -68,10 +68,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "mixmarvel@mixmarvel.com"
-  facebook: mixmarvel
-  reddit: mixmarvel
-  twitter: mixmarvel
+  telegram: "Telegram: https://t.me/HyperDragons"
+  facebook: "https://www.facebook.com/mixmarvelplatform/"
+  discord: "https://discord.gg/MxrBAD5"
+  twitter: "https://twitter.com/MIXMARVELGAME"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
