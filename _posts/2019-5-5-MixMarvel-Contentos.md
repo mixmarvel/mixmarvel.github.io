@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MixMarvel collaborated with Contentos
+title: MixMarvel collaborated with Contentos on constructing blockchain game ecosystem
 subtitle: Collaboration
 ---
 

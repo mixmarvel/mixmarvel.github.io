@@ -1,0 +1,15 @@
+---
+layout: post
+title: MixMarvel Market Entry - United States
+subtitle: Global Expansion
+
+---
+
+MixMarvel Foundation states that reported in February 2020, the MixMarvel operation team will lead its market entry into the US.
+
+In 2019, MixMarvel mainly focused on its Market Entry into Asian countries such as Japan, China and Korea. In 2020, MixMarvel aims to unlock the North American region. The US market is always the go-to market for blockchain companies for its blockchain technology vibrancy, the adoption of blockchain and the number of potential consumers. After establishing solid foundation in Asia, MixMarvel is well-prepared to go to the US.
+
+The MixMarvel Foundation very much agrees with MixMarvel's construction of its global markets. MixMarvel Foundation supports MixMarvel operation team to go global. 
+
+The MixMarvel Foundation provides financial support for the US market entry. The funds will include but not limited to: marketing expenses, office expenses, local team expenses, partnership expenses etc.; MixMarvel provides monthly budget support and overall budget of XXXX MIX Tokens in Total.
+
