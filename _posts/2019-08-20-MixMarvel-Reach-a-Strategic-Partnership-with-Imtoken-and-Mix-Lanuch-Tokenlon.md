@@ -16,5 +16,5 @@ The coorporation has achieved a good response in Imtoken community and MixMarvel
 
 The MixMarvel Foundation very much agrees with MixMarvel have a strategic partnership with top-tier cypto wallet and their Dex. Partners like top-tier crypto wallet will help MixMarvel to build a comprehensive and vibrant ecosystem.
 
-The MixMarvel Foundation provides financial support for this coorperation . The funds will include but not limited to: marketing, event organization, community consturction, PR etc. 1,000,000 MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this coorperation . The funds will include but not limited to: marketing, event organization, community consturction, PR etc. 1,260,000 MIX Tokens in total. 
 

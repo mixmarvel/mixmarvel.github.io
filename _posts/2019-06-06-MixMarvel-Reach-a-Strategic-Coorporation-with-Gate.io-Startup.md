@@ -16,5 +16,5 @@ Mix token is MixMarvel offical utility token. As a utility token, mix token have
 
 The goal amount of MixMarvel Startup is 250,000 USDT. Actual raised 17,472,265 USDT, Actual raised USDTs are more than goal USDTs. MixMarvel Startup was very successful. The stratup has achieved a good response in Gate currency exchanges and MixMarvel community. 
 
-The MixMarvel Foundation very much agrees with MixMarvel have a coorporation with top-tier global currency exchanges "Gate.io". The MixMarvel Foundation provides financial support for this coorporation and other expense. The funds will include but not limited to: marketing, event organization, community consturction, PR etc. 3,500,000 MIX Tokens in total. 
+The MixMarvel Foundation very much agrees with MixMarvel have a coorporation with top-tier global currency exchanges "Gate.io". The MixMarvel Foundation provides financial support for this coorporation and other expense. The funds will include but not limited to: marketing, event organization, community consturction, PR etc. 3,760,000 MIX Tokens in total. 
 

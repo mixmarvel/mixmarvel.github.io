@@ -17,5 +17,5 @@ The coorporation has achieved a good response in Bithumb Global currency exchang
 
 The MixMarvel Foundation very much agrees with MixMarvel have a coorporation with top-tier global currency exchanges. Partners like top-tier exchanges will help MixMarvel to build a comprehensive and vibrant ecosystem.
 
-The MixMarvel Foundation provides financial support for this coorporation. The funds will include but not limited to: marketing, event organization, community consturction, PR etc. 5,000,000 MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this coorporation. The funds will include but not limited to: marketing, event organization, community consturction, PR etc. 5,120,000 MIX Tokens in total. 
 
