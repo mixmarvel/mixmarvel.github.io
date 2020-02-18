@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MixMarvel Foundation officially established
-subtitle: 
+subtitle: Administration  
 ---
 
 The Mix Marvel Foundation (hereinafter referred to as the Mix Marvel Foundation) is a non-profit organization dedicated to the ecological development of the blockchain gaming industry and the construction, business expansion and business collaboration of the Mix Marvel platform. 
