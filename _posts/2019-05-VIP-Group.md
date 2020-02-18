@@ -13,5 +13,5 @@ VIP members actively involved in MixMarvel communities and social channels, help
 
 The MixMarvel Foundation very much agrees with MixMarvel's construction of VIP Group program. Engaging core fans is an effective way to expand MixMarvel community. 
 
-The MixMarvel Foundation has a back-up funding support for the VIP Group Program. This is a long-term program and MixMarvel has monthly budget on this program. VIP members receive awards for their contribution. 
+The MixMarvel Foundation has a 5,500,000 cumulative back-up funding support for the VIP Group Program. This is a long-term program and MixMarvel has monthly budget dedicated on this program upon approval. VIP members receive awards for their contribution. 
 

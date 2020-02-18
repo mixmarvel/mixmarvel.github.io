@@ -11,5 +11,5 @@ The TV series is a themed production based on the popular novel Haunted House Di
 
 The MixMarvel Foundation very much agrees with MixMarvel's construction of its game ecosystem and the development of its game portfolio. Branded IP resources that have instant user emotional attachments and existing user base will help MixMarvel lower user acquisition cost. MixMarvel Foundation will support the operation team to continuously find quality branded IP licenses. 
 
-The MixMarvel Foundation provides financial support for this project. The funds will include but not limited to: IP license purchase cost; XXXX MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this project. The funds will include but not limited to: IP license purchase cost; 20,000,000 MIX Tokens in total. 
 

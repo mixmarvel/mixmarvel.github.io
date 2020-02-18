@@ -12,5 +12,5 @@ In cooperation with OnBuff, MixMarvel can reduce the access threshold of game IP
 
 The MixMarvel Foundation very much agrees with MixMarvel's collaboration with partners globally. Partners like top-tier  IP project OnBuff will help MixMarvel to construct a top-notch game platform and help MixMarvel attract more players. 
 
-The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. XXXX MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. 130,000 MIX Tokens in total. 
 

@@ -13,5 +13,5 @@ Based on the Rocket Protocol, the core technology of Layer-2 provided by MixMarv
 
 The MixMarvel Foundation very much agrees with MixMarvel's construction of its game ecosystem and the development of its game portfolio. MixMarvel emphasizes on both supporting third-party games to transform into blockchain games and developing its own games. CryptoThrone will be a good case of third-party game.  
 
-The MixMarvel Foundation provides financial support for this project. The funds will include but not limited to: Layer-2 technology support cost, operation and publishing costs; XXXX MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this project. The funds will include but not limited to: Layer-2 technology support cost, operation and publishing costs; 7,800,000 MIX Tokens in total. 
 

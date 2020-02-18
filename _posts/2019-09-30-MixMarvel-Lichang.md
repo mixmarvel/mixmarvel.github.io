@@ -13,5 +13,5 @@ The collaboration was successful because both parties have goals in align and ca
 
 The MixMarvel Foundation very much agrees with MixMarvel's collaboration with Lichang which will strengthen the growth of MixMarvel community and the MixMarvel brand. 
 
-The MixMarvel Foundation has a back-up funding support for the collaboration. The funding will include but not limited to marketing, PR, community events etc. XXXX MIX tokens in total.
+The MixMarvel Foundation has a 4,600,000 cumulative back-up funding support for the collaboration. The funding will include but not limited to marketing, PR, community events, giveaway activities etc. 
 

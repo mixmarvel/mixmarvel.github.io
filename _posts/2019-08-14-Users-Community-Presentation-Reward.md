@@ -14,5 +14,5 @@ MixMarvel operation team will get into the Wechat group, help to answer users qu
 
 The MixMarvel Foundation very much agrees with users community presentation which can help MixMarvel further and further in the right direction.
 
-The MixMarvel Foundation will support for the user community presentation and used 5000 MIX for airdrop rewards. Users enter the Wechat group and submit their addresses to get a certain number of MIX.
+The MixMarvel Foundation will support for the user community presentation and used 330,000 MIX for airdrop rewards. Users enter the Wechat group and submit their addresses to get a certain number of MIX.
 

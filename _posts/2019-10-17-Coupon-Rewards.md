@@ -13,5 +13,5 @@ The Sign-in to Receive Coupon Event was successful and reached the goal of incre
 
 MixMarvel highly values user participation across MixMarvel games. Sign-in to Receive Coupon Event increases player activity by 20%. 
 
-The MixMarvel Foundation has a quarterly back-up funding support for the community development. This Sign-in to Receive Coupon Event used 2000 MIX for rewards. Players sign-in MixMarvel games or visit MixMarvel social channels will be rewarded with a certain number of MIX.
+The MixMarvel Foundation has a 120,000 cumulative back-up funding support for the community development in the form of sign-up events. Players sign-in MixMarvel games or visit MixMarvel social channels will be rewarded with a certain number of MIX.
 

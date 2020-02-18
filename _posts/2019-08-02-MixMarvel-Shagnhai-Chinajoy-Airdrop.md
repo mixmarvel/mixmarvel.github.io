@@ -13,5 +13,5 @@ The airdrop activity consist of several parts and details will post on MixMarvel
 
 The MixMarvel Foundation deeply agrees with MixMarvel operation team hold a airdrop activity during Chinajoy, which is a right oppotunity to further introduce MixMarvel in game industry.
 
-The MixMarvel Foundation has a quarterly back-up funding support for this community activity, and it used 10,000 MIX for airdrop rewards. Users submit their addresses to get a certain number of MIX.
+The MixMarvel Foundation has a quarterly back-up funding support for this community activity, and it used 150,000 MIX for airdrop rewards. Users submit their addresses to get a certain number of MIX.
 

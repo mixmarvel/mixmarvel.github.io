@@ -12,5 +12,5 @@ The collaboration has achieved a good response in both imToken and MixMarvel com
 
 The MixMarvel Foundation very much agrees with MixMarvel's collaboration with imToken. Partners like top-tier mobile Ethereum wallet will help MixMarvel to construct a top-notch game platform and help MixMarvel attract more players. 
 
-The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. XXXX MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. 
 

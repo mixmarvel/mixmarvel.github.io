@@ -11,5 +11,5 @@ In July 2019, MixMarvel operation team started a MixMarvel knowledge question ai
 
 The MixMarvel Foundation is willing to see users to further understand MixMarvel games and deeply wish to receive more suggestions about projects, technology, token and development. 
 
-The MixMarvel Foundation will support for the knowledge questions airdrops 10,000 MIX. Users enter submit their addresses to get a certain number of MIX.
+The MixMarvel Foundation will support for the knowledge questions airdrops 150,000 MIX. Users enter submit their addresses to get a certain number of MIX.
 

@@ -14,5 +14,5 @@ In past year, MixMarvel token operation team and MixMarvel fans organized tens o
 
 The MixMarvel Foundation very much agrees with MixMarvel operation team hold the token community activity which can help users understand blockchain game world and blockchain technology. Appreciated the third paries' efforts and MixMarvel fans' efforts that give MixMarvel ecosystem big helps. 
 
-The MixMarvel Foundation has a quarterly back-up funding support for the token community. Total spend 100,000,000 MIX to cover the costs and other expenses. 
+The MixMarvel Foundation has a quarterly back-up funding support for the token community. Total spend 11,000,000 MIX to cover the costs and other expenses. 
 

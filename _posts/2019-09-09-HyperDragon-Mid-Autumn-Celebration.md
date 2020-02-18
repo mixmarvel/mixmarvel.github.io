@@ -11,5 +11,5 @@ In Sep 9 2019, mid-Autumn is a traditional Chinese Festival. With the full moon 
 
 MixMarvel foundation is glad to hand in hand with MixMarvel Team to send off gifts and moon cakes to our HyperDragon users and Chinese users. 
 
-The MixMarvel Foundation has a quarterly back-up funding support for the community. This airdrops used 500 MIX and 2 elaborate moon cakes packagings.  MixMarvel foundation may your reunion be happy throughout the year.
+The MixMarvel Foundation has a quarterly back-up funding support for the community. This airdrops used 50,000 MIX and moon cakes packagings.  MixMarvel foundation may your reunion be happy throughout the year.
 

@@ -12,5 +12,5 @@ AntFinancial OpenChain provides perfect development tools and technical support.
 
 The MixMarvel Foundation very much agrees with MixMarvel's collaboration with AntFinancial OpenChain. Partners like AntFinancial alliance chain will help MixMarvel to construct a top-notch game platform and help MixMarvel attract more players. 
 
-The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. XXXX MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: development, server and software costs, marketing, event organization, community construction, PR, etc. 1,950,000 MIX Tokens in total. 
 

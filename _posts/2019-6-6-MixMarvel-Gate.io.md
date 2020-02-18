@@ -12,5 +12,5 @@ Listing of MIX on Gate.io will enhance the safe and efficient circulation of MIX
 
 The MixMarvel Foundation very much agrees with MixMarvel's collaboration with Gate.io. Partners like Gate.io will help MixMarvel to construct a top-notch game platform and help MixMarvel attract more players. 
 
-The MixMarvel Foundation provides financial support for MIX listing activities. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. XXXX MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for MIX listing activities. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. 260,000 MIX Tokens in total. 
 

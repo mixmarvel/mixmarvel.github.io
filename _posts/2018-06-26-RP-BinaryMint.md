@@ -12,6 +12,6 @@ This cooperation have great significance for the technology expansion of MixMarv
 
 The MixMarvel Foundation strongly supports MixMarvel's technology expansion strategy, helping MixMarvel improve its technology and releases. 
 
-The MixMarvel Foundation provides financial support for this cooperation. The funds include but are not limited to: development costs, research costs, labor cost, marketing and PR cost, and etc. ? ? ? MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this cooperation. The funds include but are not limited to: development costs, research costs, labor cost, marketing and PR cost, and etc. 3,900,000 MIX Tokens in total. 
 
 

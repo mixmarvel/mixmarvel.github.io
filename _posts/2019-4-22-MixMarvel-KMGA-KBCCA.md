@@ -12,4 +12,4 @@ The collaboration means that mixmarvel  enters the Korean market, promotes games
 
 The MixMarvel Foundation very much agrees with MixMarvel's collaboration with partners globally. Partners like KMGA and KBCCA will help MixMarvel to open the Korean market and help MixMarvel attract more Korean players. 
 
-The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. XXXX MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. 120,000 MIX Tokens in total. 

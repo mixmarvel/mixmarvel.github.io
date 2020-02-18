@@ -14,4 +14,4 @@ Chinese Valentine's Day airdrop will hold on  Weibo. The rules of airdrop post o
 
 MixMarvel Foundation is willing to see the Festival airdrop which can celebrate local festival and help other users to know global culture. MixMarvel Foundation wish that MixMarvel operation team can hold more festival airdrop in the furture. 
 
-The MixMarvel Foundation will support all of festival airdrops and use 5000 MIX for Chinese Valentine's Day airdrop rewards. Users submit their addresses to get a certain number of MIX.
+The MixMarvel Foundation will support all of festival airdrops and use 110,000 MIX for Chinese Valentine's Day airdrop rewards. Users submit their addresses to get a certain number of MIX.

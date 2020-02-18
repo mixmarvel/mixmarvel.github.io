@@ -13,5 +13,4 @@ The Axonomy event lasted around two weeks and was successful, reached the goal o
 
 The MixMarvel Foundation very much agrees with MixMarvel's participation in Axonomy 4th Voting Round. This is very helpful with MixMarvel's brand and awareness.
 
-The MixMarvel Foundation has a back-up funding support for the event. The funding will include but not limited to marketing, PR, community events etc. XXXX MIX tokens in total.
-
+The MixMarvel Foundation has a back-up funding support for the event. The funding will include but not limited to marketing, PR, community events etc. 

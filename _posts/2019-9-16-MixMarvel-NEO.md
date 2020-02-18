@@ -12,4 +12,5 @@ The landing of Ground Hunter means the success of large mainstream game integrat
 
 The MixMarvel Foundation very much agrees with MixMarvel's collaboration with NEO. Partners like NEO will help MixMarvel to construct a top-notch game platform and help MixMarvel attract more players. 
 
-The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. XXXX MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: game publishing, game operation, marketing, event organization, community construction, PR, etc. 520,000 MIX Tokens in total. 
+

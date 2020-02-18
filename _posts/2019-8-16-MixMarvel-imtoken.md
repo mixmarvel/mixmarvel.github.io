@@ -12,5 +12,5 @@ Listing of MIX on Tokenlon will enhance the safe and efficient circulation of MI
 
 The MixMarvel Foundation very much agrees with MixMarvel's collaboration with imToken. Partners like imToken will help MixMarvel to construct a top-notch game platform and help MixMarvel attract more players. 
 
-The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. XXXX MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. 260,000 MIX Tokens in total. 
 

@@ -13,5 +13,5 @@ The holiday series events were successful and reached the goal of better communi
 
 The MixMarvel Foundation very much agrees with MixMarvel's construction of the community, especially player community. MixMarvel's goal is to create a community-based autonomous game platform, and a large number of core fans and players is the core of this goal. 
 
-The MixMarvel Foundation has a quarterly back-up funding support for the community. This event used 20000 MIX for airdrop rewards. Users participate in the series events, once complete all  the tasks, they will be rewarded certain amount of MIX. 
+The MixMarvel Foundation has a cumulative back-up funding 120,000 support for the festival relevant events. Users participate in the series events, once complete all  the tasks, they will be rewarded certain amount of MIX. 
 

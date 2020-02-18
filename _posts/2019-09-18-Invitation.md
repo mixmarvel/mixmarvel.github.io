@@ -13,5 +13,5 @@ The Invitation to Receive Rewards Event was successful and reached the goal of i
 
 The MixMarvel Foundation very much agrees with MixMarvel's continuous expansion of the community. 
 
-The MixMarvel Foundation has a quarterly back-up funding support for the community. This event used 17000 MIX for bounty rewards. The leading three participants receive additional MIX rewards and each participant gets 5 MIX for getting one new member. 
+The MixMarvel Foundation has a 270,000 cumulative quarterly back-up funding support for the community. The leading three participants receive additional MIX rewards and each participant gets a certain number of MIX for getting one new member. 
 

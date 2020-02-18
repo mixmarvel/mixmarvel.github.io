@@ -13,5 +13,5 @@ The bounty events were successful and reached the goal of attracting 400 new tel
 
 The MixMarvel Foundation very much agrees with MixMarvel's continuous expansion of the telegram community. Telegram channel is very important for MixMarvel community cultivation. 
 
-The MixMarvel Foundation has a quarterly back-up funding support for the community. This event used 5000 MIX for bounty rewards. Users enter the new group and submit their addresses to get a certain number of MIX.
+The MixMarvel Foundation has a 130,000 overall back-up funding support for the telegram community. In this specific event, users enter the new group and submit their addresses to get a certain number of MIX.
 

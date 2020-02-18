@@ -11,5 +11,5 @@ In Sep 2019, MixMarvel opeartion team started a Ground Hunter Auction of the glo
 
 The purpose of Auction is to make FPS fans understand blockchain game and experience Ground Hunter weapon. Meanwhile, MixMarvel foundation and MixMarvel team wish for receive the early bird users suggestions, and good suggestions will be rewarded. 
 
-The MixMarvel Foundation very much agrees with MixMarvel operation team Ground Hunter Auction. The MixMarvel Foundation has a quarterly back-up funding support for the community. This auction used 300,000 MIX for rewards. Users enter the new group and submit their addresses to get a certain number of MIX.
+The MixMarvel Foundation very much agrees with MixMarvel operation team Ground Hunter Auction. The MixMarvel Foundation has a quarterly back-up funding support for the community. This auction used 250,000 MIX for rewards. Users enter the new group and submit their addresses to get a certain number of MIX.
 

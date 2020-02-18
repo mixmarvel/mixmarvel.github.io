@@ -11,5 +11,5 @@ Marvel Clans is the first real-time online Parkour competitive game in the block
 
 The MixMarvel Foundation very much agrees with MixMarvel's construction of its game ecosystem and the development of its game portfolio. MixMarvel emphasizes on both supporting third-party games to transform into blockchain games and developing its own games. Marvel Clan will be a signature product of MixMarvel’s casual game portfolio. 
 
-The MixMarvel Foundation provides financial support for this project. The funds will include but not limited to: development cost, technical hardware and software, game operation and community construction, marketing and collaboration etc. XXXX MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this project. The funds will include but not limited to: development cost, technical hardware and software, game operation and community construction, marketing and collaboration etc. 11,000,000 MIX Tokens in total. 
 

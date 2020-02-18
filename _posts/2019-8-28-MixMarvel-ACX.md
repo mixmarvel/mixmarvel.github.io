@@ -12,5 +12,5 @@ This listing on ACX is the first step for MixMarvel to enter the Australian mark
 
 The MixMarvel Foundation very much agrees with MixMarvel's collaboration with ACX. Partners like ACX will help MixMarvel to construct a top-notch game platform and help MixMarvel attract more players in  Australia . 
 
-The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. XXXX MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. 260,000 MIX Tokens in total. 
 

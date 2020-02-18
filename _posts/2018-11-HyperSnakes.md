@@ -13,5 +13,5 @@ The game inherits the core gameplay of Snakes, and innovatively introduces many 
 
 The MixMarvel Foundation very much agrees with MixMarvel's construction of its game ecosystem and the development of its game portfolio. MixMarvel emphasizes on both supporting third-party games to transform into blockchain games and developing its own games. MixMarvel dedicates its own development team on HyperSnakes. 
 
-The MixMarvel Foundation provides financial support for this project. The funds will include but not limited to: development cost, technical hardware and software, game operation and community construction, marketing and collaboration with partners etc. The funding will cover at least the three versions of HyperSnakes, Ethereum, Tron and Onotlogy; XXXX MIX Tokens in total. Additional funding might apply if needed. 
+The MixMarvel Foundation provides financial support for this project. The funds will include but not limited to: development cost, technical hardware and software, game operation and community construction, marketing and collaboration with partners etc. The funding will cover at least the three versions of HyperSnakes, Ethereum, Tron and Onotlogy; 11,000,000 MIX Tokens in total. Additional funding might apply if needed. 
 

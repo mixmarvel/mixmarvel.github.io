@@ -13,5 +13,5 @@ The satisfaction survey activity is associated with the MixMarvel Representative
 
 The MixMarvel Foundation very much agrees with MixMarvel's Representative Alliance Program and provides support. 
 
-The MixMarvel Foundation has a quarterly back-up funding support for the Representative Alliance Program. This event used 1000 MIX for rewards. Users that provide quality advices to MixMarvel and submit their addresses to get a certain number of MIX.
+The MixMarvel Foundation has a 110,000 overall back-up funding support for the Representative Alliance Program. Users that provide quality advices to MixMarvel and submit their addresses to get a certain number of MIX.
 

@@ -13,5 +13,5 @@ The collaboration has achieved a good response in both Ontology and MixMarvel co
 
 The MixMarvel Foundation very much agrees with MixMarvel's collaboration with partners globally. Partners like top-tier public chains will help MixMarvel to construct a top-notch game platform and help MixMarvel attract more players. 
 
-The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. XXXX MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. 10,000,000 MIX Tokens in total. 
 

@@ -13,5 +13,5 @@ The HyperDragons Community Event was successful and reached the goal of increasi
 
 MixMarvel highly values user participation across MixMarvel games. HyperDragons usually hold operation events to increase player adhesion. 
 
-The MixMarvel Foundation has a quarterly back-up funding support for the MixMarvel game development. This HyperDragons Community Event used 4000 MIX for rewards. Players contribute actions in game will be rewarded with a certain number of MIX.
+The MixMarvel Foundation has a 140,000 annual back-up funding support for the MixMarvel game development activities. Players contribute actions in game will be rewarded with a certain number of MIX.
 
