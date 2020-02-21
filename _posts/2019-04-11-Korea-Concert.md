@@ -6,6 +6,8 @@ subtitle: Global Expansion
 
 The MixMarvel Foundation was informed that on April 11, 2019, MixMarvel sponsord the 100th anniversary concert of the establishment of South Korea, and thousands of people enjoyed MixMarvel's new game, HyperSnakes. 
 
+![2019-04-11-Korea-Concert_wps图片.png](https://i.loli.net/2020/02/21/8e3rgInQJZuMWSs.png)
+
 On the evening of April 11, 2019, the 100th anniversary concert of the establishment of South Korea was successfully held with MixMarvel as the biggest sponsor. Many top South Korean stars and thousand of audience attended the event.  The wonderful appearance of the new blockchain game, Hypersnakes, attracted thousands of on-site audiences to register and compete simultaneously. Local media commented that it is expected to become a phenomenal popular application in the Korean market. 
 
 The successful holding of this concert started a breaking off-line scene of blockchain games, and laid a solid player foundation for MixMarvel to enter the Korean market on a large scale. 

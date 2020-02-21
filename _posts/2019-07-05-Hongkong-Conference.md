@@ -15,3 +15,5 @@ The MixMarvel Foundation strongly supports MixMarvel's global expansion strategy
 The MixMarvel Foundation provides financial support for this event. The funds include but are not limited to: venue costs, labor costs, gift rewards, marketing and PR cost, and etc. 2,600,000 MIX Tokens in total. 
 
 
+
+

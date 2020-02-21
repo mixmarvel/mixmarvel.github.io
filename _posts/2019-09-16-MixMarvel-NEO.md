@@ -14,3 +14,4 @@ The MixMarvel Foundation very much agrees with MixMarvel's collaboration with NE
 
 The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: game publishing, game operation, marketing, event organization, community construction, PR, etc. 520,000 MIX Tokens in total. 
 
+![2019-04-01-MixMarvel-NEO](C:\Users\zyx\Desktop\基金会英文公告\基金会图片\媒体&线下活动\Neo与MixMarvel\2019-04-01-MixMarvel-NEO.webp)

@@ -18,3 +18,4 @@ The goal amount of MixMarvel Startup is 250,000 USDT. Actual raised 17,472,265 U
 
 The MixMarvel Foundation very much agrees with MixMarvel have a coorporation with top-tier global currency exchanges "Gate.io". The MixMarvel Foundation provides financial support for this coorporation and other expense. The funds will include but not limited to: marketing, event organization, community consturction, PR etc. 3,760,000 MIX Tokens in total. 
 
+![2019-06-06-MixMarvel-Reach-a-Strategic-Coorporation-with-Gate.io-Startup_wps图片.png](https://i.loli.net/2020/02/21/57Ze6BxDVmOJMp4.png)

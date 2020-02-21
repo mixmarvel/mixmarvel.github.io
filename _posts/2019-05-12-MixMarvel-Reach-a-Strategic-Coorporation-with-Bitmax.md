@@ -16,3 +16,5 @@ Mix token is MixMarvel offical utility token. As a utility token, mix token have
 The coorporation has achieved a good response in both Singapore currency exchanges and MixMarvel community. The MixMarvel Foundation very much agrees with MixMarvel have a coorporation with top-tier Singapore currency exchanges. 
 
 The MixMarvel Foundation provides financial support for this coorporation. The funds will include but not limited to: marketing, event organization, community consturction, PR etc. 2,120,000 MIX Tokens in total. 
+
+<img src="https://i.loli.net/2020/02/21/wJ3gq9CHPQhSpyX.png" alt="2019-05-12-MixMarvel-Reach-a-Strategic-Coorporation-with-Bitmax_wps图片.png" style="zoom:50%;" />

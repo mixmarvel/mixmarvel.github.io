@@ -6,6 +6,8 @@ subtitle: Global Expansion
 
 The MixMarvel Foundation was informed that on September 27, 2019, MixMarvel held a conference in Seoul, Korea announcinng its full-scale upgrade. 
 
+![2019-09-27-Korea-Conference_wps图片.png](https://i.loli.net/2020/02/21/kdrp3qVl1OuSBTA.png)
+
 September 27, 2019, MixMarvel held a conference in Seoul, Korea announcinng its full-scale upgrade and held a signing ceremony with Klaytn. During this conference MixMarvel shared its latest achievements and notified the Korean Public of its upgrades. Also, MixMarvel promoted its new products and services. 
 
 The successful holding of this event have great significance for the international expansion of MixMarvel, strengthening its influence in the Korean market, and reached full cooperation with Korean partners. 
