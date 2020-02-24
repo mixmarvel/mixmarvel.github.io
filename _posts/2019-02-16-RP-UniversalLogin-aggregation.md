@@ -4,9 +4,9 @@ title: MixMarvel Develops an Aggregation of Login Systems
 subtitle: Technology Expansion
 ---
 
-The MixMarvel Foundation was informed that in January, 2019, MixMarvel started its aggegated login development of a universal login system. 
+The MixMarvel Foundation was informed that in February, 2019, MixMarvel started its aggegated login development of a universal login system. 
 
-In January, 2019, MixMarvel started the technology development of an aggregation of multipule different login channels, such as Facebook, Twitter, WeChat, SNS, and email. 
+In February, 2019, MixMarvel started the technology development of an aggregation of multipule different login channels, such as Facebook, Twitter, WeChat, SNS, and email. 
 
 This development have great significance for the technology expansion of MixMarvel, increasing its ability to provide a better solution for blockchain games. 
 
