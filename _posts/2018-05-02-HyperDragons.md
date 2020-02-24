@@ -13,5 +13,5 @@ As a nonfungible asset-based blockchain game, the core gameplay of HyperDragons 
 
 The MixMarvel Foundation very much agrees with MixMarvel's construction of its game ecosystem and the development of its game portfolio. MixMarvel emphasizes on both supporting third-party games to transform into blockchain games and developing its own games. MixMarvel dedicates its own development team on HyperDragons. 
 
-The MixMarvel Foundation provides financial support for this project. The funds will include but not limited to: development cost, technical hardware and software, game operation and community construction, marketing and collaboration with partners etc. 220,000,000 MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this project. The funds will include but not limited to: development cost, technical hardware and software, game operation and community construction, marketing and collaboration with partners etc. 22,000,000 MIX Tokens in total. 
 
