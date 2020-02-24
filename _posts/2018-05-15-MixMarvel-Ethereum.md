@@ -4,7 +4,7 @@ title: MixMarvel decided to develop on Ethereum
 subtitle: Collaboration
 ---
 
-MixMarvel Foundation states that reported in March 2018, the MixMarvel decided to develop on Ethereum.
+MixMarvel Foundation states that reported in May 2018, the MixMarvel decided to develop on Ethereum.
 
 On May 15, 2018, MixMarvel decided to develop on Ethereum. MixMarvel will put a lot of effort on Ethereum based dApps and produce more games on this public chain.
 
