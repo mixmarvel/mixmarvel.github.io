@@ -4,9 +4,9 @@ title: MixMarvel Develops Universal Login System
 subtitle: Technology Expansion
 ---
 
-The MixMarvel Foundation was informed that in January, 2019, MixMarvel started its underlying technology development of a universal login system. 
+The MixMarvel Foundation was informed that in February, 2019, MixMarvel started its underlying technology development of a universal login system. 
 
-In January, 2019, MixMarvel started the technology development of the underlying technology of a universal login system of its SDKs. 
+In February, 2019, MixMarvel started the technology development of the underlying technology of a universal login system of its SDKs. 
 
 This development have great significance for the technology expansion of MixMarvel, increasing its ability to provide a better solution for blockchain games. 
 
