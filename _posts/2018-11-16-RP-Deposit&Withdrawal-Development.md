@@ -4,9 +4,9 @@ title: MixMarvel Develops Deposit and Withdrawal System
 subtitle: Technology Expansion
 ---
 
-The MixMarvel Foundation was informed that in January, 2019, MixMarvel started its underlying technology development of a depoit and withdrawal system. 
+The MixMarvel Foundation was informed that in November, 2019, MixMarvel started its underlying technology development of a depoit and withdrawal system. 
 
-In January, 2019, MixMarvel started the technology development of the underlying technology of a depoit and withdrawal system of its SDKs. 
+In November, 2019, MixMarvel started the technology development of the underlying technology of a depoit and withdrawal system of its SDKs. 
 
 This development have great significance for the technology expansion of MixMarvel, increasing its ability to provide a better solution for blockchain games. 
 
