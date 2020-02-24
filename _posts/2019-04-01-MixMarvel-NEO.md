@@ -6,8 +6,6 @@ subtitle: Collaboration
 
 MixMarvel Foundation states that reported in April 2019, the MixMarvel operation team will collaborate with public chain  NEO; both parties will co-construct the according blockchain game dApp ecosystem.
 
-![2019-04-22-MixMarvel-KMGA-KBCCA_wps图片.png](https://i.loli.net/2020/02/21/BXgjup7At5hZJ2v.png)
-
 On April 1, 2019, MixMarvel started a comprehensive collaboration with top-tier public chain, NEO.MixMarvel will release Ground Hunter on NEO mainnet, which depends on a fully import Rocket Protocol.
 
 The collaboration has achieved a good response in both NEO and MixMarvel community. MixMarvel will also bring more games to NEO in the future.
