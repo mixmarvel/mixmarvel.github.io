@@ -5,9 +5,9 @@ subtitle: MixMarvel Platform Ecosystem Construction
 
 ---
 
-MixMarvel Foundation states that reported in January 2018, the MixMarvel operation team will start a new game project HyperDragons, an asset-based collectible blockchain game. 
+MixMarvel Foundation states that reported in May 2018, the MixMarvel operation team's  new game project HyperDragons is an asset-based collectible blockchain game and achieved great success.
 
-HyperDragons will be first game of the MixMarvel's  Hyper series games. The Ethereum version targets to  launch in March 2018, and MixMarvel will form collaboration with more public chains to launch the game.
+HyperDragons will be first game of the MixMarvel's  Hyper series games. The Ethereum version already launched in March 2018, and MixMarvel will form collaboration with more public chains to launch the game.
 
 As a nonfungible asset-based blockchain game, the core gameplay of HyperDragons is based on the breeding and training of the dragons. The dragons can not only be used for training and trading, but also be sent to explore or battle for massive awards. HyperDragons will be a signature product of MixMarvel’s digital collectible game portfolio.  
 
