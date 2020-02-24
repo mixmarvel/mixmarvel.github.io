@@ -11,6 +11,8 @@ subtitle: Risk Management
 MixMarvel Foundation states that reported in June 2019, the MixMarvel risk management department will reach a strategic partnerships with top-tier  currency exchanges Gate. io Startup. 
 
 ![2019-06-06-MixMarvel-Reach-a-Strategic-Coorporation-with-Gate.io-Startup_wps图片.png](https://i.loli.net/2020/02/24/WU5pCH2b3MAOqum.png)
+
+
 On June 2019, MixMarvel utility token "Mix" launch top-tier global currency exchange "Gate. io". Gate.io Startup is a blockchain assets discount offering platform to provide decentralized blockchain assets (BTC, ETH, Mix, etc.) sales with discount. Gate.io is a famous top-tier global currency exchanges which can offer users not only a secure, simple and fair Bitcoin exchange but also promising to safeguard users asset and trading information.
 
 Mix token is MixMarvel offical utility token. As a utility token, mix token have many application scenarios in MixMarvel game ecosystem. Users can use mix token in Marvelland to enjoy different ways. Except in-game rights, users who hold mix token can receive more benefits, such as airdrops, voting rights, governance rights and so on. 
