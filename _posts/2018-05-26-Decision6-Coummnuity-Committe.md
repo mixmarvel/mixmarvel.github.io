@@ -5,7 +5,7 @@ subtitle: Administration
 
 ---
 
-The Foundation held the first XX Community Committee Meeting on May 26th, 2018 
+The Foundation held the First Sixth Community Committee Meeting on May 26th, 2018 
 Meeting Time: May 26th, 2018 
 Meeting Topic: Community User Relationship Management
 Meeting Decision: 
