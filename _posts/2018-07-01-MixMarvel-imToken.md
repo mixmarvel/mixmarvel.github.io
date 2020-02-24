@@ -4,9 +4,9 @@ title: MixMarvel collaborated with imToken on constructing blockchain game dApp 
 subtitle: Collaboration
 ---
 
-MixMarvel Foundation states that reported in March 2018, the MixMarvel operation team will collaborate with imToken; both parties will co-construct the according blockchain game dApp ecosystem.
+MixMarvel Foundation states that reported in July 2018, the MixMarvel operation team will collaborate with imToken; both parties will co-construct the according blockchain game dApp ecosystem.
 
-On March 1, 2018, MixMarvel started a comprehensive collaboration with imToken. Both parties will co-construct blockchain game dApp ecosystem and  promote the HyperDragons and HyperSnakes together.
+On July 1, 2018, MixMarvel started a comprehensive collaboration with imToken. Both parties will co-construct blockchain game dApp ecosystem and  promote the HyperDragons and HyperSnakes together.
 
 The collaboration has achieved a good response in both imToken and MixMarvel community. MixMarvel will also bring more games to imToken in the future.
 
