@@ -10,6 +10,9 @@ subtitle: Risk Management
 
 MixMarvel Foundation states that reported in Oct 2019, the MixMarvel risk management department will reach a strategic partnerships with top-tier global currency exchanges "CoinW", both parties with co-construct Mix Token ecosystem. 
 
+![coinw2.png](https://i.loli.net/2020/02/24/QKeZhTcq6oHbMAS.png)
+
+
 On May 2019, MixMarvel utility token "Mix" launch top-tier global currency exchange "CoinW". Mix Token official expand global market. CoinW is a Hong Kong-based digital asset trading platform, providing transaction services of BTC, ETH, Mix and other mainstream cryptocurrencies to users all over the globe. Mix Token official expand HongKongl market. 
 
 Mix token is MixMarvel offical utility token. As a utility token, mix token have many application scenarios in MixMarvel game ecosystem. Users can use mix token in Marvelland to enjoy different ways. Except in-game rights, users who hold mix token can receive more benefits, such as airdrops, voting rights, governance rights and so on. 
