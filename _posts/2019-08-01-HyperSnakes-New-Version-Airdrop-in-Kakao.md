@@ -12,4 +12,4 @@ MixMarvel foundation knows that since HyperSnakes launched in 2019, DAU always m
 
 The Kakao community "Medusa" airdrop activity has achieved a good response and thousands users experience new version of HyperSnakes. MixMarvel operation team will continue to maintain the fan base and bring more games to our fans. 
 
-The MixMarvel Foundation very much agrees with HyperSnakes new version airdrops and hard work of MixMarvel operation team. MixMarvel foundation will be a quarterly back-up funding support for the Kakao community and airdrops. Airdrops activity used 150,000 MIX for rewards. Users enter the submit their addresses to get a certain number of MIX.
+The MixMarvel Foundation very much agrees with HyperSnakes new version airdrops and hard work of MixMarvel operation team. MixMarvel foundation will be a quarterly back-up funding support for the Kakao community and airdrops. Airdrops activity used 300,000 MIX for rewards. Users enter the submit their addresses to get a certain number of MIX.
