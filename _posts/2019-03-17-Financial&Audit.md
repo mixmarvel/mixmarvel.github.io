@@ -13,6 +13,6 @@ The public usage of the MixMarvel Foundation in 2019 is as follows:
 | ----------------------------------------- | :------------------- | ------------------------ | ---------- |
 |                                           | Development Fund     | Community Incentive Fund |            |
 | Total Assets at the beginning of the year | 3 billion            | 3 billion                | 2018-04-15 |
-| Foundation expenses                       | 0.21724 Billion      | 0                        |            |
-| Total Year-end Assets                     | 2.78276 Billion      | 3Billion                 | 2019-03-15 |
+| Foundation expenses                       | 0.22182 Billion      | 0                        |            |
+| Total Year-end Assets                     | 2.77818 Billion      | 3Billion                 | 2019-03-15 |
 
