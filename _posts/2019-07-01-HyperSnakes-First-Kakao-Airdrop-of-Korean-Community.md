@@ -13,5 +13,5 @@ The HyperSnakes airdrop activity has achieved a good response in South Korea and
 
 The MixMarvel Foundation very much agrees with MixMarvel operation team hold the first HyperSnakes airdrop activity which can help users understand and earn profit to further efforts.
 
-The MixMarvel Foundation has a quarterly back-up funding support for the community. This event used 150000 MIX for airdrop rewards. Users enter the HyperSnakes group and submit their addresses to get a certain number of MIX.
+The MixMarvel Foundation has a quarterly back-up funding support for the community. This event used 300,000 MIX for airdrop rewards. Users enter the HyperSnakes group and submit their addresses to get a certain number of MIX.
 
