@@ -23,7 +23,7 @@ navbar-links:
   Home: "https://mixmarvel.org"
   More infornmation:
     - Offical website: "http://www.mixmarvel.com"
-    - Contact us: mixmarvel@mixmarvel.com
+    - Contact us: "contact@mixmarvel.org"
   Whitepaper: "https://www.lanzous.com/mixmarvelwhitepaper"
 
 # Image to show in the navigation bar - image must be a square (width = height)
