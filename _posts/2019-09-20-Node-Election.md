@@ -6,7 +6,7 @@ subtitle: Global Expansion
 
 The MixMarvel Foundation was informed that on September 20, 2019, MixMarvel attended the election of Contentos nodes. 
 
-On July 2, 2019, MixMarvel attended this conference and promoted its products and shared their latest achievements. 
+On September 20, 2019, MixMarvel attended this conference and promoted its products and shared their latest achievements. 
 
 This event has a great significance for the international expansion of MixMarvel.
 
