@@ -4,11 +4,11 @@ title: MixMarvel Held Media Conference in Korea
 subtitle: Global Expansion
 ---
 
-The MixMarvel Foundation was informed that on July 30, 2019, MixMarvel held a conference in Korea. 
+The MixMarvel Foundation was informed that on April 30, 2019, MixMarvel held a conference in Korea. 
 
 ![2019-04-30-Korea-Conference_wps图片.png](https://i.loli.net/2020/02/21/hsPglNuOaYWIkcT.png)
 
-July 30, 2019, MixMarvel introduced multiple upcoming games in this conference in Seoul, Korea. MixMarvel's in-depth partners including HashKey Capital, imToken Ventures, Ontology, attended this conference and addressed the audience. During this conference, MixMarvel held a signing ceremony for the establishment of cooperation with KMGA (Korean Mobile Game Assosiation), OnBUff, and Contentus. Also, the audience was invited to experience the lately published multiplayer real-time competetive game of MixMarvel, HyperSnakes. 
+April 30, 2019, MixMarvel introduced multiple upcoming games in this conference in Seoul, Korea. MixMarvel's in-depth partners including HashKey Capital, imToken Ventures, Ontology, attended this conference and addressed the audience. During this conference, MixMarvel held a signing ceremony for the establishment of cooperation with KMGA (Korean Mobile Game Assosiation), OnBUff, and Contentus. Also, the audience was invited to experience the lately published multiplayer real-time competetive game of MixMarvel, HyperSnakes. 
 
 The successful holding of this conference have great significance for the international expansion of MixMarvel and not only won the praise of many players around the world, but also won the favor of many well-known investment institutions. 
 
