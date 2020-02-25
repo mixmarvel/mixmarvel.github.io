@@ -6,7 +6,7 @@ subtitle: Global Expansion
 
 The MixMarvel Foundation was informed on July 5, 2019, that MixMarvel attended a global blockchain game conference, Game Connects, held by Cyberport in Hong Kong.
 
-On July 2, 2019, MixMarvel attended this conference and promoted its products and shared their latest achievements. 
+On July 5, 2019, MixMarvel attended this conference and promoted its products and shared their latest achievements. 
 
 The successful holding of this event have great significance for the international expansion of MixMarvel, which means that MixMarvel officially entered into the Hong Kong market, promoted games to the Hong Kong public, and reached full cooperation with Hong Kong partners. 
 
