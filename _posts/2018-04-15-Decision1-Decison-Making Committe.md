@@ -11,9 +11,9 @@ The Foundation held the first  Decision-Making Committee Meeting on April 15th, 
 Meeting time: April 15th, 2018 
 
 
-Theme of the meeting:  community committee candidates 
+Meeting topic:  Community committee candidates
 
-Conference resolutions: 
+Meeting resolutions: 
 
 The President of the Development Committee, Jade, chaired the meeting and announced the formal establishment of a community nomination by the Community Council and the selection of a decision-making committee under the First Foundation. 
 
