@@ -4,9 +4,9 @@ title: MixMarvel Provides Business Support for Rocket Protocol
 subtitle: Technology Expansion
 ---
 
-The MixMarvel Foundation was informed that on June 26, 2018, MixMarvel modifies business direction and provides business support. 
+The MixMarvel Foundation was informed that on July 15, 2018, MixMarvel modifies business direction and provides business support. 
 
-On June 26, 2018, MixMarvel modifies business direction and provides business support to better improve Rocket Protocol and eventually release the product into the market. 
+On July 15, 2018, MixMarvel modifies business direction and provides business support to better improve Rocket Protocol and eventually release the product into the market. 
 
 This cooperation have great significance for the technology expansion of MixMarvel, increasing its ability to provide a better solution for blockchain games. 
 
