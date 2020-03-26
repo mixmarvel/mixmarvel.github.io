@@ -1,6 +1,6 @@
 ---
 layout: post
-title: community fund use management approval process 
+title: Community fund use management approval process 
 subtitle: Administration
 
 ---
