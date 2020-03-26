@@ -5,7 +5,7 @@ subtitle: MixMarvel Platform Ecosystem Construction
 
 ---
 
-MixMarvel Foundation states that reported in May 2018, the MixMarvel operation team will invest in a third-party game Ground Hunter.
+MixMarvel Foundation states that reported in August 2018, the MixMarvel operation team will invest in a third-party game Ground Hunter.
 
 As the early-stage investor to Ground Hunter, MixMarvel operation team believes that Ground Hunter will enhance MixMarvel game portfolio. MixMarvel will provide Ground Hunter team with technical support to help it transform into a blockchain game. If successful, this collaboration will prove that large-scale mainstream game can be transformed into a blockchain game. 
 
