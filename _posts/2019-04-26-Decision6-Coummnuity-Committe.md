@@ -6,8 +6,11 @@ subtitle: Administration
 ---
 
 The Foundation held the first Community Committee Meeting on April 26th, 2019
-Meeting Time: April 26th, 2018 
+
+Meeting Time: April 26th, 2019 
+
 Meeting Topic: Second Community Council General Election
+
 Meeting Decision: 
 
 2019 Foundation Second Community Council General Election Community Commission Holds General Election Session for 2019.
