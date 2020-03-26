@@ -12,5 +12,5 @@ Through this collaboration, the two sides will build high-quality blockchain gam
 
 The MixMarvel Foundation very much agrees with MixMarvel's collaboration with Tokenview. Partners like Tokenview will help MixMarvel to construct a top-notch game platform. 
 
-The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. 1,200,000 MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. 120,000 MIX Tokens in total. 
 
