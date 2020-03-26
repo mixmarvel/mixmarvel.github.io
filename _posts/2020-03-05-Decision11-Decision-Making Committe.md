@@ -5,9 +5,9 @@ subtitle: Administration
 
 ---
 
-MixMarvel Foundation Statement 
+                                               MixMarvel Foundation Statement 
 
-1.The Mix Marvel Foundation has been informed of the suspension of Bithumb exchange on the deposit of certain currencies on its trading platform. 
+1. The Mix Marvel Foundation has been informed of the suspension of Bithumb exchange on the deposit of certain currencies on its trading platform. 
 
 2. Regarding Bithumb's strengthening management of cryptocurrencies, the MixMarvel Foundation will actively cooperate with the preparation of relevant materials and continue to communicate. The MixMarvel Foundation is confident to provide relevant materials needed by Bithumb and resume the services on Bithumb at an early date. Investors may confidently maintain consistent trust in Mix Marvel and the Foundation！
    
