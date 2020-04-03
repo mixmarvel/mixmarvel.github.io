@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Community Committee established
+title: First Community Committee Established
 subtitle: Administration
 
 ---
