@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resolutions on cooperation with major public chains
+title: Resolutions on Cooperation with Major Public Chains
 subtitle: Administration
 
 ---
