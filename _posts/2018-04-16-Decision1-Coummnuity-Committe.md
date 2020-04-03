@@ -19,4 +19,4 @@ The community committee is responsible for managing the community incentive fund
 
 1st Community Council List: Rankings regardless, totaling 15 members.
 
-Jade, Yiyi, Nep, Leo, Charles, Adrain, Lionel, Mary (Singapore), Doy (US), GM Chunag (Korea), Piggy-bump-bump-bump Mina (Korea), Alex (Vitanam), Tsuneyasu Miyamoto (Japan), Kean (China), Eric (China) 
+Jade, Yiyi, Nep, Leo, Charles, Adrain, Lionel, Martin (Singapore), Doy (US), GM Chunag (Korea), Piggy-bump-bump-bump Mina (Korea), Alex (Vitanam), Tsuneyasu Miyamoto (Japan), Kean (China), Eric (China) 
