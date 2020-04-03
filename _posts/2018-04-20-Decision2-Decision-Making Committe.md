@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The establishment of development fund and community incentive fund
+title: The Establishment of Development Fund and Community Incentive Fund
 subtitle: Administration
 
 ---
