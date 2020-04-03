@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MixMarvel Foundation officially established
+title: MixMarvel Foundation Officially Established
 subtitle: Administration  
 ---
 
