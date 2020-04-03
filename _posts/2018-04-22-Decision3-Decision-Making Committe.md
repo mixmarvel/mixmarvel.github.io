@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fund use management approval process mechanism
+title: Fund Use Management Approval Process Mechanism
 subtitle: Administration
 
 ---
