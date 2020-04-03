@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MixMarvel announced to collaborate with AntFinancial and become its first node in the world
+title: MixMarvel Announced to Collaborate with AntFinancial and Become Its First Node in the World
 subtitle: Collaboration
 ---
 
