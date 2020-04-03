@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foundation's risk prevention measures
+title: Foundation's Risk Prevention Measures
 subtitle: Administration
 
 ---
