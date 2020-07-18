@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The MixMarvel Team Decides to Continue Holding Part of their Team Rewards
+title: The Foundation appreciate that MixMarvel team decide to keep on locking the reward token for the development of whole community！
 subtitle: Administration
 
 ---
