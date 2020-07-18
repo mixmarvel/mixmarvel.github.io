@@ -15,4 +15,6 @@ Nowadays, the ecological resources of MixMarvel are getting richer and achieved 
 
 On May 15th, the MixMarvel team proposed to distribute team rewards. The Foundation affirmed the development of the MixMarvel team and approved the launch of the second team rewarding plan. After unanimous discussion, another part of the tokens from the team rewards plan was unlocked to complete the second round of team rewards. According to the Smart Contract illustrated in the white paper, a total of 400 million will be unlocked to reward all members of MixMarvel. After thorough consideration for the prosperity and stability of the project, the team decided to hold 77.5% of the 400 million for more than half a year. This proportion of adjustment also shows that the team's expectations and confidence in future development! In this regard, the Foundation is deeply grateful for the tireless efforts and sense of responsibility of all members of MixMarvel team. 
 
+Thanks and Best Wishes！
+
  
