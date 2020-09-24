@@ -1,16 +1,16 @@
 ---
 layout: post
-title: MixMarvel Announced to Collaborate with AntFinancial and Become Its First Node in the World
+title: MixMarvel collaborated with AntFinancial, the operating system for DApps
 subtitle: Collaboration
+
+
 ---
 
-MixMarvel Foundation states that reported in January 2020, the MixMarvel  will collaborate with AntFinancial OpenChain to create the first blockchain marketing tool based on Alipay Applications.
+MixMarvel Foundation states that reported in January 2020, the MixMarvel will collaborate with AntFinancial, the affiliated company of Alibaba and Alipay; both parties will co-construct the according blockchain game ecosystem.
 
-On January 14, 2020, MixMarvel started a comprehensive collaboration with AntFinancial OpenChain. MixMarvel will create the first blockchain marketing tool based on Alipay Applications. HyperSnakes, which is highly viscous and easy-to-use, is the core interactive gameplay of this blockchain marketing tool designed to link merchants and users. The designs and the props in the applications can be combined with any merchant, allowing users to learn about the merchants’ products while interacting, achieving a mutual benefit for both the merchants and users. 
+On 14 January 2020, MixMarvel started a comprehensive collaboration with AntFinancial. AntFinancial. MixMarvel’s Layer-2 scaling technology Rocket Protocol, as well as the profound accumulation of the game industry,  will be beneficial to the application within its ecosystem.
 
-AntFinancial OpenChain provides perfect development tools and technical support. With this marketing tool as the cornerstone, MixMarvel will continue to help AntFinancial OpenChain enrich its ecosystem and provide it with more more innovative blockchain tool applications.
+Ant Financial Blockchain and MixMarvel cooperation will benefit not only the users of the Alipay Mini-Applications but also the merchants of the Alipay ecosystem. It will provide both sides with value-added blockchain-based services. The introduction of HyperSnakes in the Ant Financial Blockchain has a milestone meaning for the entire blockchain industry. When the mainstream players of Alipay enter the blockchain game industry, the mass adoption of blockchain games will become a reality.
 
-The MixMarvel Foundation very much agrees with MixMarvel's collaboration with AntFinancial OpenChain. Partners like AntFinancial alliance chain will help MixMarvel to construct a top-notch game platform and help MixMarvel attract more players. 
-
-The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: development, server and software costs, marketing, event organization, community construction, PR, etc. 1,950,000 MIX Tokens in total. 
+The MixMarvel Foundation provides financial support for this collaboration. The funds will include but not limited to: marketing, event organization, community construction, PR, etc. 1,950,000 MIX Tokens in total. 
 
