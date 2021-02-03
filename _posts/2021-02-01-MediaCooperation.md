@@ -4,7 +4,7 @@ title: MixMarvel Expands Media Coopertions
 subtitle: Global Expansion
 ---
 
-The MixMarvel Foundation was informed that on January , 2021, MixMarvel's expanded media cooperations to better prepare for future product releases. 
+The MixMarvel Foundation was informed that on January, 2021, MixMarvel expanded media cooperations to better prepare for future product releases. 
 
 On January, 2021, MixMarvel expanded media cooperations to better prepare for product releases. The media cooperation includes future promotions for MixMarvel Pocket, LeCube, and Rocket Protocol.
 
