@@ -1,8 +1,8 @@
 ---
-layout: post
-title: MixMarvel Foundation Announcement of  MIX Buyback Plan to Drive Sustainable Ecosystem Growth
+layout:post
+title:MixMarvel Foundation Announcement of  MIX Buyback Plan to Drive Sustainable Ecosystem Growth
 MixMarvel
-subtitle: Administration   
+subtitle:Administration   
 ---
 
 MixMarvel Foundation states that reported in January 21 2025, MixMarvel Foundation officially announced that it will initiate a $MIX token buyback program with revenue generated from its ecosystem. 
