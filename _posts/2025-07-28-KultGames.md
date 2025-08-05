@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ‘MixMarvel cooperated with new ecological partner KultGames’
+title: MixMarvel cooperated with new ecological partner KultGames
 subtitle: Global Expansion
 ---
 
