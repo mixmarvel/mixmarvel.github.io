@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ‘MixMarvel cooperated with new ecological partner OpenAD’
+title: MixMarvel cooperated with new ecological partner OpenAD
 subtitle: Global Expansion
 ---
 
